@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Project link :[website](https://elastic-bell-3ab835.netlify.app/)
+
+Project link  [website](https://elastic-bell-3ab835.netlify.app/)
 
 ## Available Scripts
 
